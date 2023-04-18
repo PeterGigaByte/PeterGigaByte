@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">A passionate developer from Slovakia.</h3>
+<h3 align="center">A passionate Java developer from Slovakia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petergigabyte&label=Profile%20views&color=0e75b6&style=flat" alt="petergigabyte" /> </p>
 
